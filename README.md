@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
      - 🐦 Twitter: [@norbertoburciag](https://twitter.com/NorbertoBurciag)
+     - 🔗 LinkedIn: [norbertoburciaga](https://www.linkedin.com/in/norbertoburciaga)
 
 <!---
 NorbertoBurciaga/NorbertoBurciaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
